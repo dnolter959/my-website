@@ -1,4 +1,4 @@
-baseURL: "danielnolte.netlify.app"
+baseURL: "danielnolte.netlify.app/"
 languageCode: en-us
 title: Hugo Whisper Theme
 theme: hugo-whisper-theme
