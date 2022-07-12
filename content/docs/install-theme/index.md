@@ -11,6 +11,7 @@ weight: 3
 hugo new site mynewsite
 ```
 
+dfdfdfdfdf
 This will create a fresh Hugo site in the folder `mynewsite`.
 
 ## Install theme

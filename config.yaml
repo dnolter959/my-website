@@ -1,6 +1,6 @@
 baseURL: "https://danielnolte.netlify.app/"
 languageCode: en-us
-title: Hugo Whisper Theme
+title: Dan Nolte
 theme: hugo-whisper-theme
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
@@ -18,23 +18,26 @@ menu:
     - name: Docs
       url: /docs/
       weight: 2
+    - name: Docs
+      url: /docs/
+      weight: 2
+
 params:
   google_analytics_id: ''
   homepage_button_link: /docs
-  homepage_button_text: Read The Docs
+  homepage_button_text: About Me
   homepage_image: /images/terminal.gif
-  homepage_intro: Whisper is a documentation theme built with Hugo. The design and
-    functionality is intentionally minimal.
+  homepage_intro: Hey there. I'm Dan, and this site is a repository of my projects and writings.
   homepage_meta_tags:
     meta_description: Hugo Whisper is a documentation theme built with Hugo.
     meta_og_description: Hugo Whisper is a documentation theme built with Hugo.
     meta_og_image: https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png
-    meta_og_title: Hugo Whisper Theme
+    meta_og_title: Dan Nolte
     meta_og_type: website
-    meta_og_url: https://hugo-whisper.netlify.app
+    meta_og_url: https://danielnolte.netlify.app
     meta_twitter_card: summary
     meta_twitter_creator: '@zerostaticio'
     meta_twitter_site: '@zerostaticio'
   logo:
-    mobile: /images/logo-mobile.svg
-    standard: /images/logo.svg
+    mobile: /images/logo.png
+    standard: /images/logo.png
