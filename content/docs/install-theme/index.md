@@ -1,7 +1,7 @@
 ---
-date: "2019-02-11T19:27:37+10:00"
+title: 'Install Theme'
+date: 2019-02-11T19:27:37+10:00
 draft: false
-title: Install Theme
 weight: 3
 ---
 
@@ -11,7 +11,6 @@ weight: 3
 hugo new site mynewsite
 ```
 
-dfdfdfdfdf
 This will create a fresh Hugo site in the folder `mynewsite`.
 
 ## Install theme

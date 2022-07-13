@@ -1,6 +1,6 @@
 ---
-date: "2018-11-28T15:14:39+10:00"
-title: Hugo Whisper Docs
+title: Hi, I'm Dan
+date: 2022-07-12T15:14:39+10:00
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+When you look at this orange, tell me please: what do you see?

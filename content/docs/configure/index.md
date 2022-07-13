@@ -1,9 +1,9 @@
 ---
-date: "2019-02-11T19:30:08+10:00"
+title: 'Configuration'
+date: 2019-02-11T19:30:08+10:00
 draft: false
-summary: Syntax highlighting and menus can be configured via `config.toml`.
-title: Configuration
 weight: 4
+summary: Syntax highlighting and menus can be configured via `config.toml`.
 ---
 
 ## Syntax Highlighting
